@@ -6,7 +6,8 @@ sou desenvolvedora e uso esse github para meus estudos e para troca de conhecime
 Caso queira falar comigo é só mandar uma mensagem no Linkedin!
 </br>
 <div>
-<a href="https://www.linkedin.com/in/isabelamedeiros" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a  
+<a href="https://www.linkedin.com/in/isabelamedeiros" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+<a></a
 </div>
 </br>
 </br>
